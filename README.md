@@ -7,6 +7,9 @@
 
 # 미리보기
 
+최신 스크립트의 작동 영상은 보안상의 이유로 공개되지 않습니다. (패턴 유출 가능성을 막기 위해)
+미리 준비된 영상을 통해 해당 영상과 유사한 작동 방식을 확인하실 수 있습니다.
+
 [![시바서버 마밀상](http://img.youtube.com/vi/9uR_qlYiEIk/0.jpg)](https://youtu.be/9uR_qlYiEIk&t=0s) 
 [![토이서버 트리거](http://img.youtube.com/vi/j6SShU1vKLI/0.jpg)](https://youtu.be/j6SShU1vKLI&t=0s) 
 [![자동배달](http://img.youtube.com/vi/jyO9mYiPRCI/0.jpg)](https://youtu.be/jyO9mYiPRCI&t=0s) 
